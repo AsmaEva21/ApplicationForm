@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">practice</string>
+
+    <string-array name="productname">
+        <item>FAJAR</item>
+        <item>ZUHOR</item>
+        <item>ASAR</item>
+        <item>MAGRIB</item>
+        <item>ABABIL</item>
+        <item>ISHA</item>
+        <item>TARAWEEH</item>
+        <item>SALATUL TASBIH</item>
+        <item>TAHAJJUD</item>
+        <item>SHASHTRA</item>
+        <item>NAFL</item>
+        <item>OTHERS </item>
+
+
+    </string-array>
+
+
+    <string name="hint">Please type something</string>
+    <string name="submit">Submit</string>
+    <string name="entered_text">Entered text:</string>
+
+    <string-array name="countries_array">
+        <item>Shab-E-Qadar</item>
+        <item>Shab-E-Barat</item>
+        <item>Shab-E-Mehraj</item>
+        <item>Eid-E-Miladunnobi</item>
+
+
+    </string-array>
+
+
+
+
+    <string-array name="surah_array">
+        <item>Surah YASIN</item>
+        <item>SURAH AR_RAHMAN</item>
+        <item>SURAH NABA</item>
+        <item>SURAH WAQIAH</item>
+        <item>SURAH MULK </item>
+        <item>FAJAR</item>
+        <item>ZUHOR</item>
+        <item>ASAR</item>
+        <item>MAGRIB</item>
+        <item>ISHA</item>
+
+    </string-array>
+</resources>
